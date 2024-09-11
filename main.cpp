@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 int main() {
-     double a;
-     cin>>a;
+     double v0,v1,t;;
+     cin>>v0>>v1>>t;
      //cout<<"Product="<<12*38;
-     cout<<"A="<<4/3*3.142195*a*a*a;
+     cout<<(v1-v0)/t;
      return 0;
 
 }
