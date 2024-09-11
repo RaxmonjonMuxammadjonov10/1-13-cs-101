@@ -1,8 +1,10 @@
 #include <iostream>
 using namespace std;
 int main() {
-     cout<<"Product="<<12*38;
-     cout<<"\nSum="<<12+38;
+     int a,b;
+     cin>>a>>b;
+     //cout<<"Product="<<12*38;
+     cout<<"\nSum of "<<a<<" and "<<b<<" = "<<a+b;
      return 0;
 
 }
