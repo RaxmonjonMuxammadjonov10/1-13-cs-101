@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 int main() {
-     double v0,v1,t;;
-     cin>>v0>>v1>>t;
+     double d,e,p;;
+     cin>>d>>e>>p;
      //cout<<"Product="<<12*38;
-     cout<<(v1-v0)/t;
+     cout<<d*e*p;
      return 0;
 
 }
