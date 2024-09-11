@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 int main() {
-     double d=1.1333,e=411e-4,p;;
+     int t=241;
      //cin>>d>>e>>p;
      //cout<<"Product="<<12*38;
-     cout<<d<<double(e);
+     cout<<t/11<<" "<<t%11<<endl;
      return 0;
 
 }
